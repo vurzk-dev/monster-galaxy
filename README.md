@@ -15,10 +15,11 @@
 <!-- - Descarga un navegador compatible con Flash. 🔦 **Recomendado:** [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases/tag/v0.81) -->
 - Descarga un navegador compatible con Flash, como [FlashBrowser](https://github.com/radubirsan/FlashBrowser/releases/tag/v0.81)
 <!-- - Instala [Flash Player 32.0.0.371](https://archive.org/download/flashplayerarchive/pub/flashplayer/installers/archive/fp_32.0.0.371_archive.zip/32_0_r0_371%2Fflashplayer32_0r0_371_winpep.exe) y reinicia el navegador. Puedes encontrar alternativas [aquí](FLASH.md). -->
-- Descarga la última versión desde el apartado [Releases](https://github.com/Social-Wars/social-wars-reawakened-emulador/releases)
+- Descarga la última versión desde el apartado [Releases](https://github.com/vurzk-dev/monster-galaxy/releases)
 <!-- espacio en blanco -->
 <!-- - Descarga el archivo `.zip` desde el apartado Releases -->
 - Extrae el archivo `.zip` y colócalo en un lugar accesible
+<!-- Markut -->
 - Ejecuta el archivo ejecutable `MGRewritten.exe`
 <!-- espacio en blanco -->
 - Abre tu navegador compatible con Flash y ve a: `http://127.0.0.1:8080`
