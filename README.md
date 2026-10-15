@@ -18,7 +18,8 @@
 - Descarga la última versión desde el apartado [Releases](https://github.com/Social-Wars/social-wars-reawakened-emulador/releases)
 <!-- espacio en blanco -->
 <!-- - Descarga el archivo `.zip` desde el apartado Releases -->
-- Extrae su contenido en un lugar accesible y Ejecuta el archivo ejecutable `MGRewritten.exe`
+- Extrae el archivo `.zip` y colócalo en un lugar accesible
+- Ejecuta el archivo ejecutable `MGRewritten.exe`
 <!-- espacio en blanco -->
 - Abre tu navegador compatible con Flash y ve a: `http://127.0.0.1:8080`
 <!-- espacio en blanco -->
